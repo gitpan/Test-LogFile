@@ -1,5 +1,8 @@
 .perl-version
 Changes
+eg/agent.pl
+eg/shrc
+eg/t/agent.t
 inc/Module/Install.pm
 inc/Module/Install/AuthorTests.pm
 inc/Module/Install/Base.pm
